@@ -3,3 +3,4 @@ dementive
 *.txt
 *.zip
 *.yml
+__pycache__
